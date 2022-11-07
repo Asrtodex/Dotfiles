@@ -141,4 +141,4 @@ alias djsu="python manage.py createsuperuser"
 alias note="nvim ~/Documents/org/note.org"
 
 alias cdownload="rm -Rf ~/Downloads/*"
-alias dfb="cp -rf ~/.config Dotfiles/ & cp -rf ~/.zshrc Dotfiles/ & cp -rf ~/.xinitrc Dotfiles/ & cp -rf ~/.bashrc Dotfiles/"
+alias dotfilesbackup="cp -rf ~/.config Dotfiles/ & cp -rf ~/.zshrc Dotfiles/ & cp -rf ~/.xinitrc Dotfiles/ & cp -rf ~/.bashrc Dotfiles/"

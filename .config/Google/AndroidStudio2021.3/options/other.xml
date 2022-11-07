@@ -1,13 +1,34 @@
 <application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2H0z4tFsH5ZTgxFerLqwNmYZtN6">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
   <component name="PropertiesComponent">
     <property name="AndroidInitConfigurator.V1" value="true" />
     <property name="AndroidInitConfigurator.V3" value="true" />
     <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="IdeErrorsDialog.LAST_OK_ACTION" value="REPORT_AND_CLEAR_ALL" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="appcds.runOnSecondStart" value="AI-213.7172.25.2113.9123335-b63eb2e211898d2bd874ebde9a68e5811de1a66117a25cc4a83e2a16456d394c" />
     <property name="bundled.plugins.list.saved.version" value="AI-213.7172.25.2113.9123335" />
-    <property name="fileTypeChangedCounter" value="1" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/labs/flutter/desa" />
+    <property name="file.gist.reindex.count" value="3" />
+    <property name="fileTypeChangedCounter" value="3" />
     <property name="fileTypeDetectors" value="com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector:com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.jetbrains.cidr.lang.OCHeaderFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
     <property name="input.method.disabler.muted" value="true" />
+    <property name="installed.kotlin.plugin.version" value="213-1.7.20-release-for-android-studio-AS6777.52" />
+    <property name="io.flutter.analytics.clientId" value="8a631705-b4f5-4e17-aa67-34df21518dd1" />
+    <property name="io.flutter.analytics.toastShown" value="true" />
+    <property name="io.flutter.console.preferencesSet" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/labs/flutter/desa" />
+    <property name="registry.to.advanced.settings.migration.build" value="AI-213.7172.25.2113.9123335" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />
   </component>
 </application>

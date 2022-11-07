@@ -1,0 +1,37 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="ChooseRunConfiguration">
+      <i c="1" l="1667437639896" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="1" l="1667437632971" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1667436649723" />
+    </e>
+    <e n="Tree-selectNext">
+      <i c="17" l="1667441343570" />
+    </e>
+    <e n="Tree-selectPrevious">
+      <i c="14" l="1667441346053" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1667436583030" />
+    </e>
+    <e n="com.intellij.diagnostic.IdeMessagePanel$4">
+      <i c="1" l="1667436617213" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerMain$2">
+      <i c="1" l="1667436696689" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="2" l="1667437610805" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="1" l="1667441377426" />
+    </e>
+    <e n="io.flutter.FlutterInitializer$2">
+      <i c="1" l="1667437932701" />
+    </e>
+  </component>
+</application>

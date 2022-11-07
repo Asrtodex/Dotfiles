@@ -1,11 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="pro" type="DeviceSpecFile" />
-      <mapping ext="pro" type="Shrinker Config File" />
-      <mapping pattern=".analysis_options" type="YAML" />
-      <mapping pattern="pubspec.lock" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>

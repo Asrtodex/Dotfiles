@@ -51,7 +51,7 @@ local function run_once(cmd_arr)
     end
 end
 
-run_once({ "unclutter -root","picom", "feh --bg-fill ~/Pictures/N001.jpg"}) -- entries must be comma-separated
+run_once({ "unclutter -root","picom &", "feh --bg-fill ~/Pictures/N001.jpg"}) -- entries must be comma-separated
 -- }}}
 
 -- {{{ Variable definitions
