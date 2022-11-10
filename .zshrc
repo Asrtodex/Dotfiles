@@ -122,6 +122,7 @@ alias picomrc="nvim ~/.config/picom/config.lua"
 # Global command alias to make easy to call
 alias ..="cd .."
 alias ...="cd"
+alias lsa="ls -la"
 
 alias pacu="sudo pacman -Syyu"
 alias paclist="pacman -Q"

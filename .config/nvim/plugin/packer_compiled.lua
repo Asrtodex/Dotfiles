@@ -110,6 +110,11 @@ _G.packer_plugins = {
     path = "/home/heruma/.local/share/nvim/site/pack/packer/start/lualine.nvim",
     url = "https://github.com/nvim-lualine/lualine.nvim"
   },
+  ["mason-lspconfig.nvim"] = {
+    loaded = true,
+    path = "/home/heruma/.local/share/nvim/site/pack/packer/start/mason-lspconfig.nvim",
+    url = "https://github.com/williamboman/mason-lspconfig.nvim"
+  },
   ["mason.nvim"] = {
     loaded = true,
     path = "/home/heruma/.local/share/nvim/site/pack/packer/start/mason.nvim",
@@ -151,6 +156,12 @@ _G.packer_plugins = {
     path = "/home/heruma/.local/share/nvim/site/pack/packer/start/onedarkpro.nvim",
     url = "https://github.com/olimorris/onedarkpro.nvim"
   },
+  ["org-bullets.nvim"] = {
+    config = { "\27LJ\2\n9\0\0\3\0\3\0\0066\0\0\0'\2\1\0B\0\2\0029\0\2\0B\0\1\1K\0\1\0\nsetup\16org-bullets\frequire\0" },
+    loaded = true,
+    path = "/home/heruma/.local/share/nvim/site/pack/packer/start/org-bullets.nvim",
+    url = "https://github.com/akinsho/org-bullets.nvim"
+  },
   orgmode = {
     config = { "\27LJ\2\n9\0\0\3\0\3\0\a6\0\0\0'\2\1\0B\0\2\0029\0\2\0004\2\0\0B\0\2\1K\0\1\0\nsetup\forgmode\frequire\0" },
     loaded = true,
@@ -168,7 +179,7 @@ _G.packer_plugins = {
     url = "https://github.com/nvim-lua/plenary.nvim"
   },
   ["telescope-file-browser.nvim"] = {
-    config = { "\27LJ\2\n¬\1\0\0\a\0\f\0\0176\0\0\0'\2\1\0B\0\2\0029\0\2\0005\2\n\0005\3\b\0005\4\3\0005\5\4\0004\6\0\0=\6\5\0054\6\0\0=\6\6\5=\5\a\4=\4\t\3=\3\v\2B\0\2\1K\0\1\0\15extensions\1\0\0\17file_browser\1\0\0\rmappings\6n\6i\1\0\0\1\0\2\17hijack_netrw\2\ntheme\bivy\nsetup\14telescope\frequire\0" },
+    config = { "\27LJ\2\n¬\1\0\0\a\0\f\0\0176\0\0\0'\2\1\0B\0\2\0029\0\2\0005\2\n\0005\3\b\0005\4\3\0005\5\4\0004\6\0\0=\6\5\0054\6\0\0=\6\6\5=\5\a\4=\4\t\3=\3\v\2B\0\2\1K\0\1\0\15extensions\1\0\0\17file_browser\1\0\0\rmappings\6n\6i\1\0\0\1\0\2\ntheme\bivy\17hijack_netrw\2\nsetup\14telescope\frequire\0" },
     loaded = true,
     path = "/home/heruma/.local/share/nvim/site/pack/packer/start/telescope-file-browser.nvim",
     url = "https://github.com/nvim-telescope/telescope-file-browser.nvim"
@@ -188,8 +199,12 @@ _G.packer_plugins = {
 time([[Defining packer_plugins]], false)
 -- Config for: telescope-file-browser.nvim
 time([[Config for telescope-file-browser.nvim]], true)
-try_loadstring("\27LJ\2\n¬\1\0\0\a\0\f\0\0176\0\0\0'\2\1\0B\0\2\0029\0\2\0005\2\n\0005\3\b\0005\4\3\0005\5\4\0004\6\0\0=\6\5\0054\6\0\0=\6\6\5=\5\a\4=\4\t\3=\3\v\2B\0\2\1K\0\1\0\15extensions\1\0\0\17file_browser\1\0\0\rmappings\6n\6i\1\0\0\1\0\2\17hijack_netrw\2\ntheme\bivy\nsetup\14telescope\frequire\0", "config", "telescope-file-browser.nvim")
+try_loadstring("\27LJ\2\n¬\1\0\0\a\0\f\0\0176\0\0\0'\2\1\0B\0\2\0029\0\2\0005\2\n\0005\3\b\0005\4\3\0005\5\4\0004\6\0\0=\6\5\0054\6\0\0=\6\6\5=\5\a\4=\4\t\3=\3\v\2B\0\2\1K\0\1\0\15extensions\1\0\0\17file_browser\1\0\0\rmappings\6n\6i\1\0\0\1\0\2\ntheme\bivy\17hijack_netrw\2\nsetup\14telescope\frequire\0", "config", "telescope-file-browser.nvim")
 time([[Config for telescope-file-browser.nvim]], false)
+-- Config for: org-bullets.nvim
+time([[Config for org-bullets.nvim]], true)
+try_loadstring("\27LJ\2\n9\0\0\3\0\3\0\0066\0\0\0'\2\1\0B\0\2\0029\0\2\0B\0\1\1K\0\1\0\nsetup\16org-bullets\frequire\0", "config", "org-bullets.nvim")
+time([[Config for org-bullets.nvim]], false)
 -- Config for: orgmode
 time([[Config for orgmode]], true)
 try_loadstring("\27LJ\2\n9\0\0\3\0\3\0\a6\0\0\0'\2\1\0B\0\2\0029\0\2\0004\2\0\0B\0\2\1K\0\1\0\nsetup\forgmode\frequire\0", "config", "orgmode")

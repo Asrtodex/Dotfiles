@@ -98,6 +98,9 @@ require('packer').startup(function(use)
     use { 'williamboman/mason-lspconfig.nvim',
     }
     use {'mfussenegger/nvim-jdtls'}
+    use {'akinsho/org-bullets.nvim', config = function()
+        require('org-bullets').setup()
+    end}
     require("telescope").load_extension "file_browser"
     if packer_bootstrap then
         packer.sync()
