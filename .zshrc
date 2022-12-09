@@ -123,6 +123,7 @@ alias picomrc="nvim ~/.config/picom/config.lua"
 alias ..="cd .."
 alias ...="cd"
 alias lsa="ls -la"
+alias :q="exit"
 
 alias pacu="sudo pacman -Syyu"
 alias paclist="pacman -Q"

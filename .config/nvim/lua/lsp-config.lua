@@ -56,8 +56,12 @@ require('lspconfig')['rust_analyzer'].setup{
       ["rust-analyzer"] = {}
     }
 }
+require'lspconfig'.tailwindcss.setup{
+    on_attach = on_attach,
+    flags = lsp_flags,
 
-require'lspconfig'.html.setup {
+}
+require('lspconfig')['html'].setup {
     on_attach = on_attach,
     flags = lsp_flags,
     capabilities = capabilities,
