@@ -2,7 +2,11 @@
     "telemetry.machineId": "93fe28bf0a14f2e1dafb6d8e18c46804bd75f4b27a3f15ef04d5b6af1f99e4de",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/heruma/labs/next/blog"
+            }
+        ],
         "emptyWindows": [
             {
                 "backupFolder": "1667281948786"
@@ -49,6 +53,20 @@
                                     "id": "workbench.action.reopenClosedEditor",
                                     "label": "&&Reopen Closed Editor",
                                     "enabled": false
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/heruma/labs/next/blog",
+                                        "path": "/home/heruma/labs/next/blog",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/labs/next/blog"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -106,6 +124,13 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
+                                {
+                                    "id": "github.copyVscodeDevLinkFile",
+                                    "label": "Copy vscode.dev Link"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Settings Profile (Default)..."
@@ -187,6 +212,10 @@
                     {
                         "id": "workbench.action.closeActiveEditor",
                         "label": "&&Close Editor"
+                    },
+                    {
+                        "id": "workbench.action.closeFolder",
+                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -377,12 +406,12 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleMenuBar",
-                                    "label": "Menu &&Bar",
-                                    "checked": true
+                                    "label": "Menu &&Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "&&Primary Side Bar"
+                                    "label": "&&Primary Side Bar",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleAuxiliaryBar",
@@ -498,6 +527,13 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
+                                    "id": "workbench.action.splitEditorInGroup",
+                                    "label": "Split in &&Group"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
                                     "id": "workbench.action.editorLayoutSingle",
                                     "label": "&&Single"
                                 },
@@ -586,8 +622,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap",
-                        "enabled": false
+                        "label": "&&Word Wrap"
                     },
                     {
                         "id": "editor.action.toggleMinimap",
@@ -619,8 +654,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -629,8 +663,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1140,6 +1173,11 @@
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
             },
+            "workbench.action.closeFolder": {
+                "label": "Ctrl+K F",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k f"
+            },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
                 "userSettingsLabel": "alt+f4"
@@ -1277,6 +1315,11 @@
                 "label": "Ctrl+NumPad0",
                 "isNative": false,
                 "userSettingsLabel": "ctrl+numpad0"
+            },
+            "workbench.action.splitEditorInGroup": {
+                "label": "Ctrl+K Ctrl+Shift+\\",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+shift+\\"
             },
             "workbench.action.toggleEditorGroupLayout": {
                 "label": "Shift+Alt+0",
@@ -1520,20 +1563,21 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 0,
+            "sideBarWidth": 300,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/heruma/.config/VSCodium/Backups/1667281948786",
+            "folder": "file:///home/heruma/labs/next/blog",
+            "backupPath": "/home/heruma/.config/VSCodium/Backups/4ed201dda594f31b0360e195222bff39",
             "uiState": {
                 "mode": 1,
-                "x": 689,
-                "y": 31,
-                "width": 666,
-                "height": 726
+                "x": 2,
+                "y": 24,
+                "width": 1362,
+                "height": 742
             }
         },
         "openedWindows": []

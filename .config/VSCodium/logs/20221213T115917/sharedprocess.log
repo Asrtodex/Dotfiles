@@ -1,0 +1,18 @@
+[2022-12-13 11:59:28.427] [sharedprocess] [info] Starting worker process with pid 6880 (type: fileWatcher, window: 1).
+[2022-12-13 11:59:30.023] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-13 12:01:01.822] [sharedprocess] [info] Getting Manifest... esbenp.prettier-vscode
+[2022-12-13 12:01:02.077] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2022-12-13 12:01:52.966] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /home/heruma/.config/VSCodium/CachedExtensionVSIXs/esbenp.prettier-vscode-9.10.3-universal
+[2022-12-13 12:01:54.390] [sharedprocess] [info] Extracted extension to /home/heruma/.vscode-oss/extensions/.9d531517-00d0-4808-99bb-b4653cbdf314: esbenp.prettier-vscode
+[2022-12-13 12:01:54.408] [sharedprocess] [info] Renamed to /home/heruma/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.3-universal
+[2022-12-13 12:01:54.423] [sharedprocess] [info] Extracting completed. esbenp.prettier-vscode
+[2022-12-13 12:01:54.436] [sharedprocess] [info] Extension installed successfully: esbenp.prettier-vscode
+[2022-12-13 12:06:02.630] [sharedprocess] [info] Getting Manifest... dsznajder.es7-react-js-snippets
+[2022-12-13 12:06:03.023] [sharedprocess] [info] Installing extension: dsznajder.es7-react-js-snippets
+[2022-12-13 12:07:09.286] [sharedprocess] [info] Downloaded extension: dsznajder.es7-react-js-snippets /home/heruma/.config/VSCodium/CachedExtensionVSIXs/dsznajder.es7-react-js-snippets-4.4.3-universal
+[2022-12-13 12:07:11.936] [sharedprocess] [info] Extracted extension to /home/heruma/.vscode-oss/extensions/.7acce84e-98fb-488d-84c8-9c0efa1f6942: dsznajder.es7-react-js-snippets
+[2022-12-13 12:07:11.961] [sharedprocess] [info] Renamed to /home/heruma/.vscode-oss/extensions/dsznajder.es7-react-js-snippets-4.4.3-universal
+[2022-12-13 12:07:11.963] [sharedprocess] [info] Extracting completed. dsznajder.es7-react-js-snippets
+[2022-12-13 12:07:11.966] [sharedprocess] [info] Extension installed successfully: dsznajder.es7-react-js-snippets
+[2022-12-13 12:07:35.462] [sharedprocess] [info] Worker process with pid 6880 terminated normally (type: fileWatcher, window: 1).
+[2022-12-13 12:07:45.128] [sharedprocess] [info] Starting worker process with pid 16891 (type: fileWatcher, window: 1).

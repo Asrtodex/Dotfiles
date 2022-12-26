@@ -1,0 +1,3 @@
+2022-12-23 22:52:59.052 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/heruma/Downloads/nvim-back/lua/user/packer.lua","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2022-12-23 22:53:13.696 [info] [perf] Render performance baseline is 321ms
+2022-12-23 22:53:16.193 [error] Error while registering log channel file:///home/heruma/.config/Code%20-%20OSS/logs/20221223T225252/userDataSync.log Timed out while waiting for file to be created

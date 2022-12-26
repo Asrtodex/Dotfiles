@@ -1,0 +1,5 @@
+{
+    "window.menuBarVisibility": "toggle",
+    "workbench.sideBar.location": "right",
+    "editor.minimap.enabled": false
+}

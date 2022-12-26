@@ -1,0 +1,2 @@
+[2022-12-13 12:07:23.445] [renderer1] [error] RequestService#request (browser) - error https://open-vsx.org/vscode/gallery/extensionquery {"name":"Canceled"}
+[2022-12-13 12:07:23.448] [renderer1] [error] RequestService#request (browser) - error https://open-vsx.org/vscode/gallery/extensionquery {"name":"Canceled"}

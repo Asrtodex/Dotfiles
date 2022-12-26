@@ -1,0 +1,21 @@
+2022-12-16 05:57:26.404 [info] Starting worker process with pid 762 (type: fileWatcher, window: 1).
+2022-12-16 05:58:10.847 [info] Worker process with pid 762 terminated normally (type: fileWatcher, window: 1).
+2022-12-16 05:58:12.810 [info] Starting worker process with pid 891 (type: fileWatcher, window: 1).
+2022-12-16 05:59:09.472 [info] Getting Manifest... dbaeumer.vscode-eslint
+2022-12-16 05:59:10.889 [info] Installing extension: dbaeumer.vscode-eslint
+2022-12-16 05:59:15.917 [info] Extracted extension to /home/heruma/.vscode-oss/extensions/.f57821ac-de84-4231-a929-bb3b2019d869: dbaeumer.vscode-eslint
+2022-12-16 05:59:15.927 [info] Renamed to /home/heruma/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.2.6-universal
+2022-12-16 05:59:15.936 [info] Extracting completed. dbaeumer.vscode-eslint
+2022-12-16 05:59:15.955 [info] Extension installed successfully: dbaeumer.vscode-eslint
+2022-12-16 06:00:15.774 [info] Getting Manifest... tomi.xasnippets
+2022-12-16 06:00:15.993 [info] Installing extension: tomi.xasnippets
+2022-12-16 06:00:17.588 [info] Extracted extension to /home/heruma/.vscode-oss/extensions/.ebea9eea-1217-4feb-9283-a70c4b0b0724: tomi.xasnippets
+2022-12-16 06:00:17.597 [info] Renamed to /home/heruma/.vscode-oss/extensions/tomi.xasnippets-2.13.1-universal
+2022-12-16 06:00:17.600 [info] Extracting completed. tomi.xasnippets
+2022-12-16 06:00:17.615 [info] Extension installed successfully: tomi.xasnippets
+2022-12-16 06:00:35.094 [info] Getting Manifest... wscats.omi-snippets
+2022-12-16 06:00:35.324 [info] Installing extension: wscats.omi-snippets
+2022-12-16 06:02:25.648 [info] Extracted extension to /home/heruma/.vscode-oss/extensions/.e827b18c-6d26-44f2-ae2d-93cb816d9bc6: wscats.omi-snippets
+2022-12-16 06:02:25.666 [info] Renamed to /home/heruma/.vscode-oss/extensions/wscats.omi-snippets-2.2.8-universal
+2022-12-16 06:02:25.669 [info] Extracting completed. wscats.omi-snippets
+2022-12-16 06:02:25.681 [info] Extension installed successfully: wscats.omi-snippets

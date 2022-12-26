@@ -1,0 +1,6 @@
+2022-12-16 05:57:21.318 [info] update#ctor - updates are disabled as there is no update URL
+2022-12-16 05:57:24.642 [info] Starting extension host with pid 726 (fork() took 20 ms).
+2022-12-16 05:58:10.858 [info] Extension host with pid 726 exited with code: 0, signal: null.
+2022-12-16 05:58:12.718 [info] Starting extension host with pid 890 (fork() took 13 ms).
+2022-12-16 06:04:12.000 [info] Waiting for extension host with pid 890 to exit.
+2022-12-16 06:04:12.011 [info] Extension host with pid 890 exited with code: 0, signal: null.

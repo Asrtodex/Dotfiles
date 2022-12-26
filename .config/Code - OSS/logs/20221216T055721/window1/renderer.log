@@ -1,0 +1,4 @@
+2022-12-16 05:57:28.257 [info] [perf] Render performance baseline is 88ms
+2022-12-16 05:57:34.847 [error] Error while registering log channel file:///home/heruma/.config/Code%20-%20OSS/logs/20221216T055721/userDataSync.log Timed out while waiting for file to be created
+2022-12-16 05:58:15.281 [info] [perf] Render performance baseline is 85ms
+2022-12-16 05:58:22.707 [error] Error while registering log channel file:///home/heruma/.config/Code%20-%20OSS/logs/20221216T055721/userDataSync.log Timed out while waiting for file to be created

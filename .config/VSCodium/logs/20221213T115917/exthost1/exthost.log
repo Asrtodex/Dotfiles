@@ -1,0 +1,32 @@
+[2022-12-13 11:59:23.050] [exthost] [info] Extension host with pid 6806 started
+[2022-12-13 11:59:23.558] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-12-13 11:59:23.560] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-12-13 11:59:23.562] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-12-13 11:59:25.355] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-12-13 11:59:25.357] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-12-13 11:59:26.001] [exthost] [info] Eager extensions activated
+[2022-12-13 11:59:26.380] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-13 11:59:26.387] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-13 12:01:55.331] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+[2022-12-13 12:01:55.599] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-13 12:07:15.468] [exthost] [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-13 12:07:35.197] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-12-13 12:07:35.305] [exthost] [info] Extension host with pid 6806 exiting with code 0
+[2022-12-13 12:07:51.054] [exthost] [info] Extension host with pid 16892 started
+[2022-12-13 12:07:51.075] [exthost] [info] Skipping acquiring lock for /home/heruma/.config/VSCodium/User/workspaceStorage/b1ea46f7bbec58e14870904b9108ccad.
+[2022-12-13 12:07:52.411] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-12-13 12:07:52.413] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-12-13 12:07:52.414] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-12-13 12:07:52.415] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-12-13 12:07:53.145] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-12-13 12:07:53.147] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+[2022-12-13 12:07:53.530] [exthost] [info] Eager extensions activated
+[2022-12-13 12:07:53.735] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-13 12:07:53.736] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-13 12:07:53.736] [exthost] [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-13 12:07:53.737] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-13 12:08:01.330] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescriptreact'
+[2022-12-13 12:11:47.057] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-12-13 12:11:47.059] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-12-13 12:13:10.741] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-12-13 12:13:10.862] [exthost] [info] Extension host with pid 16892 exiting with code 0

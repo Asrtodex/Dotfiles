@@ -1,0 +1,39 @@
+2022-12-16 05:57:27.115 [info] Log level: Info
+2022-12-16 05:57:27.115 [info] Validating found git in: "git"
+2022-12-16 05:57:27.115 [info] Using git "2.39.0" from "git"
+2022-12-16 05:58:20.930 [info] Log level: Info
+2022-12-16 05:58:20.930 [info] Validating found git in: "git"
+2022-12-16 05:58:20.931 [info] Using git "2.39.0" from "git"
+2022-12-16 05:58:20.931 [info] > git rev-parse --show-toplevel [16ms]
+2022-12-16 05:58:20.932 [info] > git rev-parse --git-dir --git-common-dir [14ms]
+2022-12-16 05:58:20.949 [info] Open repository: /home/heruma/labs/next/blog
+2022-12-16 05:58:20.977 [info] > git rev-parse --show-toplevel [16ms]
+2022-12-16 05:58:20.993 [info] > git rev-parse --show-toplevel [8ms]
+2022-12-16 05:58:21.006 [info] > git config --get commit.template [29ms]
+2022-12-16 05:58:21.014 [info] > git rev-parse --show-toplevel [10ms]
+2022-12-16 05:58:21.032 [info] > git rev-parse --show-toplevel [11ms]
+2022-12-16 05:58:21.043 [info] > git rev-parse --show-toplevel [3ms]
+2022-12-16 05:58:21.051 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [22ms]
+2022-12-16 05:58:21.072 [info] > git status -z -uall [13ms]
+2022-12-16 05:58:21.073 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2022-12-16 05:58:21.087 [info] > git rev-parse --show-toplevel [37ms]
+2022-12-16 05:58:21.105 [info] > git config --get commit.template [10ms]
+2022-12-16 05:58:21.106 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2022-12-16 05:58:21.132 [info] > git status -z -uall [14ms]
+2022-12-16 05:58:21.133 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+2022-12-16 05:58:21.551 [info] > git check-ignore -v -z --stdin [24ms]
+2022-12-16 06:01:06.304 [info] > git check-ignore -v -z --stdin [1ms]
+2022-12-16 06:01:09.083 [info] > git show --textconv :pages/index.tsx [306ms]
+2022-12-16 06:01:09.087 [info] > git ls-files --stage -- /home/heruma/labs/next/blog/pages/index.tsx [281ms]
+2022-12-16 06:01:09.106 [info] > git cat-file -s cdffa57ca82541ae318d67f00db944c9e96fafd2 [8ms]
+2022-12-16 06:01:48.380 [info] > git check-ignore -v -z --stdin [4ms]
+2022-12-16 06:01:56.123 [info] > git check-ignore -v -z --stdin [1ms]
+2022-12-16 06:02:04.789 [info] > git show --textconv :components/slider.tsx [15ms]
+2022-12-16 06:02:04.792 [info] > git ls-files --stage -- /home/heruma/labs/next/blog/components/slider.tsx [6ms]
+2022-12-16 06:02:29.431 [info] > git config --get commit.template [10ms]
+2022-12-16 06:02:29.433 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2022-12-16 06:02:29.453 [info] > git status -z -uall [11ms]
+2022-12-16 06:02:29.454 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2022-12-16 06:03:51.562 [info] > git show --textconv :pages/index.tsx [16ms]
+2022-12-16 06:03:51.578 [info] > git ls-files --stage -- /home/heruma/labs/next/blog/pages/index.tsx [17ms]
+2022-12-16 06:03:51.596 [info] > git cat-file -s cdffa57ca82541ae318d67f00db944c9e96fafd2 [2ms]
